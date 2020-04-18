@@ -1,3 +1,3 @@
-<h1> Czesc Lalo !!   </h1>
-<h2> Chce zrobic dzis z Toba drozdzowki </h2>
-<h2> chodz na kawe ustalic szczegoly </h2>
+<h1> TEST !!   </h1>
+<h2> IT </h2>
+<h2> works. Hello World </h2>
