@@ -1,3 +1,3 @@
-<h1> Cześć Lalo !!   </h1>
-<h2> Chce zrobić dziś z Tobą drożdżówki </h2>
-<h2> chodź na kawę ustalić szczegóły </h2>
+<h1> Czesc Lalo !!   </h1>
+<h2> Chce zrobic dzis z Toba drozdzowki </h2>
+<h2> chodz na kawe ustalic szczegoly </h2>
